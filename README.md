@@ -1,0 +1,4 @@
+# Logistics-management
+Only part of the complete
+物流管理系统java源码.7z 里是一个完整的java工程代码，解压后在eclipse当中进行导入整个项目即可，正常运行需要java环境以及sqlserver的环境。无需自己建库建表等操作。
+物流管理系统.exe 是一个成品安装包，安装后可直接运行，我将java的环境一起打包成的。但是也是需要sqlserver的环境，对于各个输入框，鼠标放置上去有默认提示，登录后的帮助中有可使用的100条sql语句
